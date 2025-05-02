@@ -2929,3 +2929,36 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [02May2025 14:53:32.494] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (15f23bed-2447-3277-8aad-f12bc60473d9)
 [02May2025 14:53:32.496] [Server thread/INFO] [Jade/]: Syncing config to FenixProToG (15f23bed-2447-3277-8aad-f12bc60473d9)
 [02May2025 14:53:34.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2296ms or 45 ticks behind
+[02May2025 15:06:21.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay was slain by Culonimbus
+[02May2025 15:06:21.971] [Server thread/INFO] [tombstone/]: The player SaderPlay has successfully been saved
+[02May2025 15:06:43.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG was Crushed to death by Culonimbus
+[02May2025 15:06:43.211] [Server thread/INFO] [tombstone/]: The player FenixProToG has successfully been saved
+[02May2025 15:06:55.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has reached the goal [Chain Death]
+[02May2025 15:06:55.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay was slain by Culonimbus
+[02May2025 15:06:55.260] [Server thread/INFO] [tombstone/]: The player SaderPlay has successfully been saved
+[02May2025 15:07:52.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG was slain by Culonimbus
+[02May2025 15:07:52.966] [Server thread/INFO] [tombstone/]: The player FenixProToG has successfully been saved
+[02May2025 15:07:58.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay was slain by Culonimbus
+[02May2025 15:07:58.714] [Server thread/INFO] [tombstone/]: The player SaderPlay has successfully been saved
+[02May2025 15:08:45.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has reached the goal [Chain Death]
+[02May2025 15:08:45.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG was slain by Culonimbus
+[02May2025 15:08:45.056] [Server thread/INFO] [tombstone/]: The player FenixProToG has successfully been saved
+[02May2025 15:09:07.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay was slain by Culonimbus
+[02May2025 15:09:07.955] [Server thread/INFO] [tombstone/]: The player SaderPlay has successfully been saved
+[02May2025 15:09:45.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay was slain by Culonimbus
+[02May2025 15:09:45.457] [Server thread/INFO] [tombstone/]: The player SaderPlay has successfully been saved
+[02May2025 15:09:49.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG was slain by Culonimbus
+[02May2025 15:09:49.285] [Server thread/INFO] [tombstone/]: The player FenixProToG has successfully been saved
+[02May2025 15:10:23.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay was Exterminated by Culonimbus using pure Lightning Energy
+[02May2025 15:10:23.200] [Server thread/INFO] [tombstone/]: The player SaderPlay has successfully been saved
+[02May2025 15:10:36.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG was killed by Culonimbus using magic
+[02May2025 15:10:36.312] [Server thread/INFO] [tombstone/]: The player FenixProToG has successfully been saved
+[02May2025 15:11:23.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay was slain by Culonimbus
+[02May2025 15:11:23.054] [Server thread/INFO] [tombstone/]: The player SaderPlay has successfully been saved
+[02May2025 15:11:34.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG was Exterminated by Culonimbus using pure Lightning Energy
+[02May2025 15:11:34.502] [Server thread/INFO] [tombstone/]: The player FenixProToG has successfully been saved
+[02May2025 15:12:02.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay was killed by Culonimbus using magic
+[02May2025 15:12:02.506] [Server thread/INFO] [tombstone/]: The player SaderPlay has successfully been saved
+[02May2025 15:12:10.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG was Exterminated by Culonimbus using pure Lightning Energy
+[02May2025 15:12:10.051] [Server thread/INFO] [tombstone/]: The player FenixProToG has successfully been saved
+[02May2025 15:13:30.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has made the advancement [A Strange Grave Dust]
