@@ -3316,3 +3316,7 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [02May2025 20:03:47.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
 [02May2025 20:03:47.093] [Server thread/INFO] [tombstone/]: The player FenixProToG has successfully been saved
 [02May2025 20:16:46.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has made the advancement [Stolen Magic]
+[02May2025 20:23:00.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported SaderPlay to FenixProToG]
+[02May2025 20:29:43.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Set own game mode to Spectator Mode]
+[02May2025 20:30:19.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Set own game mode to Survival Mode]
+[02May2025 20:30:22.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported SaderPlay to FenixProToG]

@@ -8601,3 +8601,11 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [02May2025 20:16:46.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has made the advancement [Stolen Magic]
 [02May2025 20:18:32.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02May2025 20:18:32.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 20:23:00.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported SaderPlay to FenixProToG]
+[02May2025 20:23:32.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 20:23:32.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 20:28:32.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 20:28:32.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 20:29:43.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Set own game mode to Spectator Mode]
+[02May2025 20:30:19.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Set own game mode to Survival Mode]
+[02May2025 20:30:22.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported SaderPlay to FenixProToG]
