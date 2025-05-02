@@ -8578,3 +8578,26 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [02May2025 19:44:17.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Gave 1 [Crying Obsidian] to FenixProToG]
 [02May2025 19:48:32.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02May2025 19:48:32.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 19:50:41.939] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/78679, l='ServerLevel[world]', x=-544.36, y=72.00, z=-1410.49] died, message: 'Librarian was slain by Zombie'
+[02May2025 19:53:32.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 19:53:32.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 19:54:23.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Applied effect Poison to SaderPlay]
+[02May2025 19:57:27.873] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1203, y=126, z=-1898}
+[02May2025 19:58:09.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has made the advancement [Funeral Theft]
+[02May2025 19:58:11.360] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -1418,87,-1690,minecraft:overworld as filled
+[02May2025 19:58:32.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 19:58:32.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 20:01:33.012] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -1222,126,-1702,minecraft:overworld as filled
+[02May2025 20:02:08.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported FenixProToG to SaderPlay]
+[02May2025 20:03:32.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 20:03:32.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 20:03:47.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[02May2025 20:03:47.091] [Server thread/DEBUG] [tombstone/]: A new grave of the player FenixProToG was created at position [x:-1560, y:106, z:-1676, dim:minecraft:overworld]
+[02May2025 20:03:47.093] [Server thread/INFO] [tombstone/]: The player FenixProToG has successfully been saved
+[02May2025 20:08:32.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 20:08:32.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 20:13:32.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 20:13:32.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 20:16:46.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has made the advancement [Stolen Magic]
+[02May2025 20:18:32.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 20:18:32.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

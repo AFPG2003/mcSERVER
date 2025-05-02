@@ -3306,3 +3306,13 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [02May2025 19:43:58.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Set own game mode to Survival Mode]
 [02May2025 19:44:17.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has made the advancement [Who is Cutting Onions?]
 [02May2025 19:44:17.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Gave 1 [Crying Obsidian] to FenixProToG]
+[02May2025 19:50:41.939] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/78679, l='ServerLevel[world]', x=-544.36, y=72.00, z=-1410.49] died, message: 'Librarian was slain by Zombie'
+[02May2025 19:54:23.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Applied effect Poison to SaderPlay]
+[02May2025 19:57:27.873] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1203, y=126, z=-1898}
+[02May2025 19:58:09.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has made the advancement [Funeral Theft]
+[02May2025 19:58:11.360] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -1418,87,-1690,minecraft:overworld as filled
+[02May2025 20:01:33.012] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -1222,126,-1702,minecraft:overworld as filled
+[02May2025 20:02:08.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported FenixProToG to SaderPlay]
+[02May2025 20:03:47.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[02May2025 20:03:47.093] [Server thread/INFO] [tombstone/]: The player FenixProToG has successfully been saved
+[02May2025 20:16:46.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has made the advancement [Stolen Magic]

@@ -24,3 +24,5 @@
 [15:18:01] [INFO] [minecraft:block] Found 352 tags, added 9 objects, removed 0 objects
 [15:18:01] [INFO] [minecraft:item] Found 417 tags, added 3 objects, removed 0 objects
 [15:18:13] [INFO] Server resource reload complete!
+[19:58:11] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -1418,87,-1690,minecraft:overworld as filled
+[20:01:33] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -1222,126,-1702,minecraft:overworld as filled
