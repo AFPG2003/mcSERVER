@@ -3020,3 +3020,13 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [02May2025 17:37:56.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has reached the goal [Bone Crusher]
 [02May2025 17:38:43.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SaderPlay lost connection: Disconnected
 [02May2025 17:38:43.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay left the game
+[02May2025 17:42:22.236] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79b1b171[id=<null>,name=SaderPlay,properties={},legacy=false] (/127.28.38.117:51641) lost connection: Disconnected
+[02May2025 17:42:30.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SaderPlay[/127.28.38.117:46419] logged in with entity id 39433 at (-1153.3667748844687, -36.0, -1248.1001427159952)
+[02May2025 17:42:30.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay joined the game
+[02May2025 17:42:31.243] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (1b304e87-2f32-3267-b6ad-5e6ff825a819)
+[02May2025 17:42:31.244] [Server thread/INFO] [Jade/]: Syncing config to SaderPlay (1b304e87-2f32-3267-b6ad-5e6ff825a819)
+[02May2025 17:43:44.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported FenixProToG to SaderPlay]
+[02May2025 17:56:17.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has made the advancement [Breaking the Seal]
+[02May2025 17:56:28.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has made the advancement [Not Today, Thank You]
+[02May2025 17:57:17.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has reached the goal [Chaos Spawner]
+[02May2025 17:57:17.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has reached the goal [Chaos Spawner]

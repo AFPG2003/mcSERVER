@@ -2439,9 +2439,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-02 17:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-02 17:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-05-02 17:41:41 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
+    "criteria": {
+      "obtain_chaotic_hexahedron": "2025-05-02 17:57:17 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/awaken_chaos_spawner": {
+    "criteria": {
+      "awaken_chaos_spawner": "2025-05-02 17:56:17 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/misc/lead_flux_capacitor": {
+    "criteria": {
+      "has_lead_ingot": "2025-05-02 17:41:48 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/misc/lead_circuit": {
+    "criteria": {
+      "has_lead_ingot": "2025-05-02 17:41:48 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-05-02 17:37:56 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/building_blocks/lead_block": {
+    "criteria": {
+      "has_lead_ingot": "2025-05-02 17:41:48 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+    "criteria": {
+      "has_chaotic_hexahedron": "2025-05-02 17:57:17 +0000"
     },
     "done": true
   },
