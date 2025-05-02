@@ -8562,3 +8562,19 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [02May2025 19:29:56.048] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2406, y=-4, z=-381}
 [02May2025 19:29:56.048] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2407, y=-3, z=-380}
 [02May2025 19:29:56.048] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2407, y=-3, z=-381}
+[02May2025 19:33:04.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Set own game mode to Creative Mode]
+[02May2025 19:33:32.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 19:33:32.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 19:33:36.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Set own game mode to Survival Mode]
+[02May2025 19:36:03.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has made the advancement [Ice Bucket Challenge]
+[02May2025 19:38:32.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 19:38:32.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 19:42:27.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has made the advancement [Ice Bucket Challenge]
+[02May2025 19:42:57.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Set own game mode to Creative Mode]
+[02May2025 19:43:32.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 19:43:32.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 19:43:58.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Set own game mode to Survival Mode]
+[02May2025 19:44:17.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has made the advancement [Who is Cutting Onions?]
+[02May2025 19:44:17.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Gave 1 [Crying Obsidian] to FenixProToG]
+[02May2025 19:48:32.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 19:48:32.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
