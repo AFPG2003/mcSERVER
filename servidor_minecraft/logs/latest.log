@@ -3036,3 +3036,95 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [02May2025 18:18:50.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FenixProToG lost connection: Disconnected
 [02May2025 18:18:50.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG left the game
 [02May2025 18:21:46.487] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/49583, l='ServerLevel[world]', x=-457.53, y=71.05, z=-1367.51] died, message: 'Fisherman was slain by Zombie'
+[02May2025 18:34:51.845] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FenixProToG[/127.222.127.126:52615] logged in with entity id 51503 at (-1159.9990415897034, -29.0, -1217.8922200133186)
+[02May2025 18:34:51.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG joined the game
+[02May2025 18:34:52.271] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (15f23bed-2447-3277-8aad-f12bc60473d9)
+[02May2025 18:34:52.272] [Server thread/INFO] [Jade/]: Syncing config to FenixProToG (15f23bed-2447-3277-8aad-f12bc60473d9)
+[02May2025 18:37:43.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has made the advancement [Stolen Magic]
+[02May2025 18:37:48.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has reached the goal [Strong or Careful]
+[02May2025 18:37:48.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG died because of FenixProToG
+[02May2025 18:37:48.192] [Server thread/INFO] [tombstone/]: The player FenixProToG has successfully been saved
+[02May2025 18:37:53.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has reached the goal [Strong or Careful]
+[02May2025 18:37:53.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay was killed
+[02May2025 18:37:53.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Killed SaderPlay]
+[02May2025 18:37:53.350] [Server thread/INFO] [tombstone/]: The player SaderPlay has successfully been saved
+[02May2025 18:38:46.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported FenixProToG to SaderPlay]
+[02May2025 18:40:50.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FenixProToG moved too quickly! -1.7941349796959685,-11.830009566391261,-0.5711000521573624
+[02May2025 18:42:43.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG died because of FenixProToG
+[02May2025 18:42:43.549] [Server thread/INFO] [tombstone/]: The player FenixProToG has successfully been saved
+[02May2025 18:42:54.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay was killed
+[02May2025 18:42:54.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Killed SaderPlay]
+[02May2025 18:42:54.506] [Server thread/INFO] [tombstone/]: The player SaderPlay has successfully been saved
+[02May2025 18:43:02.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Set own game mode to Spectator Mode]
+[02May2025 18:43:42.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Set own game mode to Survival Mode]
+[02May2025 18:45:47.138] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1502, y=-54, z=-1534}
+[02May2025 18:45:47.138] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1502, y=-53, z=-1533}
+[02May2025 18:45:47.139] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1502, y=-54, z=-1534}
+[02May2025 18:45:47.139] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1502, y=-53, z=-1533}
+[02May2025 18:45:49.858] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1511, y=-32, z=-1612}
+[02May2025 18:45:49.858] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1511, y=-32, z=-1612}
+[02May2025 18:45:49.866] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1518, y=21, z=-1615}
+[02May2025 18:45:49.866] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1518, y=21, z=-1615}
+[02May2025 18:45:50.122] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1502, y=-54, z=-1534}
+[02May2025 18:45:50.122] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1502, y=-53, z=-1533}
+[02May2025 18:45:52.081] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02May2025 18:45:52.081] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02May2025 18:45:52.163] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1522, y=15, z=-1580}
+[02May2025 18:45:52.164] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1523, y=16, z=-1580}
+[02May2025 18:45:52.164] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1522, y=15, z=-1580}
+[02May2025 18:45:52.164] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1523, y=16, z=-1580}
+[02May2025 18:45:52.431] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1524, y=-29, z=-1638}
+[02May2025 18:45:52.432] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1524, y=-29, z=-1638}
+[02May2025 18:45:52.983] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1511, y=-32, z=-1612}
+[02May2025 18:45:52.983] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1518, y=21, z=-1615}
+[02May2025 18:45:56.272] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1522, y=15, z=-1580}
+[02May2025 18:45:56.272] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1523, y=16, z=-1580}
+[02May2025 18:45:56.278] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1524, y=-29, z=-1638}
+[02May2025 18:45:57.851] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1559, y=-30, z=-1482}
+[02May2025 18:45:57.851] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1560, y=-30, z=-1482}
+[02May2025 18:45:57.851] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1559, y=-30, z=-1480}
+[02May2025 18:45:57.852] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1559, y=-29, z=-1481}
+[02May2025 18:45:57.852] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1559, y=-30, z=-1482}
+[02May2025 18:45:57.852] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1560, y=-30, z=-1482}
+[02May2025 18:45:57.852] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1559, y=-30, z=-1480}
+[02May2025 18:45:57.853] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1559, y=-29, z=-1481}
+[02May2025 18:45:58.633] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1565, y=-43, z=-1659}
+[02May2025 18:45:58.633] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1564, y=-42, z=-1658}
+[02May2025 18:45:58.633] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1565, y=-43, z=-1659}
+[02May2025 18:45:58.633] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1564, y=-42, z=-1658}
+[02May2025 18:46:01.668] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02May2025 18:46:01.669] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02May2025 18:46:01.840] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1584, y=-4, z=-1541}
+[02May2025 18:46:01.840] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1584, y=-4, z=-1541}
+[02May2025 18:46:02.125] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1559, y=-30, z=-1480}
+[02May2025 18:46:02.125] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1560, y=-30, z=-1482}
+[02May2025 18:46:02.125] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1559, y=-30, z=-1482}
+[02May2025 18:46:02.126] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1559, y=-29, z=-1481}
+[02May2025 18:46:02.476] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1564, y=-42, z=-1658}
+[02May2025 18:46:02.477] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1565, y=-43, z=-1659}
+[02May2025 18:46:05.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1584, y=-4, z=-1541}
+[02May2025 18:46:10.450] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1606, y=-17, z=-1521}
+[02May2025 18:46:10.451] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1606, y=-17, z=-1521}
+[02May2025 18:46:20.223] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02May2025 18:46:20.223] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02May2025 18:46:20.223] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02May2025 18:46:20.223] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02May2025 18:46:21.854] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1606, y=-17, z=-1521}
+[02May2025 18:46:22.016] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1624, y=-50, z=-1692}
+[02May2025 18:46:22.017] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1625, y=-50, z=-1693}
+[02May2025 18:46:22.017] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1624, y=-50, z=-1692}
+[02May2025 18:46:22.017] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1625, y=-50, z=-1693}
+[02May2025 18:46:28.678] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1624, y=-50, z=-1692}
+[02May2025 18:46:28.679] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1625, y=-50, z=-1693}
+[02May2025 18:47:23.196] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1661, y=-41, z=-1511}
+[02May2025 18:47:23.196] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1661, y=-41, z=-1511}
+[02May2025 18:47:24.142] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1654, y=-5, z=-1686}
+[02May2025 18:47:24.142] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1653, y=-4, z=-1685}
+[02May2025 18:47:24.143] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1654, y=-5, z=-1686}
+[02May2025 18:47:24.143] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1653, y=-4, z=-1685}
+[02May2025 18:47:30.075] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1661, y=-41, z=-1511}
+[02May2025 18:47:30.080] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1653, y=-4, z=-1685}
+[02May2025 18:47:30.080] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1654, y=-5, z=-1686}
+[02May2025 18:48:37.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG died because of FenixProToG
+[02May2025 18:48:37.267] [Server thread/INFO] [tombstone/]: The player FenixProToG has successfully been saved
+[02May2025 18:48:51.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has made the advancement [Cover Me with Diamonds]
