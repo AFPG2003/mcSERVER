@@ -69,6 +69,7 @@
       "minecraft:ocean": "2025-05-02 00:51:18 +0000",
       "minecraft:flower_forest": "2025-05-02 01:36:36 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 00:57:55 +0000",
+      "minecraft:deep_dark": "2025-05-02 15:45:00 +0000",
       "minecraft:meadow": "2025-05-02 01:39:20 +0000",
       "minecraft:windswept_gravelly_hills": "2025-05-02 00:29:58 +0000",
       "minecraft:plains": "2025-05-02 00:30:44 +0000"
@@ -1752,9 +1753,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-02 15:51:33 +0000"
+    },
+    "done": true
+  },
   "palladium:recipes/building_blocks/raw_lead_block": {
     "criteria": {
       "has_raw_lead": "2025-05-02 15:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-05-02 15:52:43 +0000"
     },
     "done": true
   },
@@ -1764,9 +1777,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-05-02 15:52:43 +0000"
+    },
+    "done": true
+  },
   "palladium:recipes/misc/lead_ingot_from_blasting_raw_lead": {
     "criteria": {
       "has_raw_lead": "2025-05-02 15:42:31 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-05-02 15:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-05-02 15:44:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-02 15:48:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 15:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-05-02 15:52:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-02 15:45:37 +0000"
     },
     "done": true
   },
