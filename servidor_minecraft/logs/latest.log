@@ -2934,3 +2934,14 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [02May2025 15:19:17.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG joined the game
 [02May2025 15:19:17.912] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (15f23bed-2447-3277-8aad-f12bc60473d9)
 [02May2025 15:19:17.914] [Server thread/INFO] [Jade/]: Syncing config to FenixProToG (15f23bed-2447-3277-8aad-f12bc60473d9)
+[02May2025 15:32:33.136] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1364, y=-19, z=-1359}
+[02May2025 15:34:46.445] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "5.10.3": journeymap.server.mp.config
+[02May2025 15:41:08.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has made the advancement [Isn't It Iron Pick]
+[02May2025 15:42:11.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has made the advancement [Ashes 'n Bones]
+[02May2025 15:44:11.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG fell from a high place
+[02May2025 15:44:11.663] [Server thread/INFO] [tombstone/]: The player FenixProToG has successfully been saved
+[02May2025 15:45:00.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay fell from a high place
+[02May2025 15:45:00.345] [Server thread/INFO] [tombstone/]: The player SaderPlay has successfully been saved
+[02May2025 15:45:37.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has made the advancement [The Most Useful Key]
+[02May2025 15:45:44.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has reached the goal [A Fast Comeback]
+[02May2025 15:46:28.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has made the advancement [Labyrinth]
