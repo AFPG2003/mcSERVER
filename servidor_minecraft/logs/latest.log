@@ -2964,3 +2964,22 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [02May2025 16:16:42.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has completed the challenge [It Spreads]
 [02May2025 16:16:53.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay was spiked to death
 [02May2025 16:16:53.490] [Server thread/INFO] [tombstone/]: The player SaderPlay has successfully been saved
+[02May2025 16:19:22.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has reached the goal [Bone Crusher]
+[02May2025 16:20:03.447] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FenixProToG lost connection: Disconnected
+[02May2025 16:20:03.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG left the game
+[02May2025 16:23:23.841] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@320cfbb9[id=<null>,name=FenixProToG,properties={},legacy=false] (/127.222.127.126:36007) lost connection: Disconnected
+[02May2025 16:23:30.903] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FenixProToG[/127.222.127.126:45299] logged in with entity id 17032 at (-1159.5372747263928, -53.9375, -1244.102053711091)
+[02May2025 16:23:30.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG joined the game
+[02May2025 16:23:31.381] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (15f23bed-2447-3277-8aad-f12bc60473d9)
+[02May2025 16:23:31.383] [Server thread/INFO] [Jade/]: Syncing config to FenixProToG (15f23bed-2447-3277-8aad-f12bc60473d9)
+[02May2025 16:36:57.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has completed the challenge [Just a Flesh Wound]
+[02May2025 16:37:57.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG was slain by Spectral Wolf
+[02May2025 16:37:57.201] [Server thread/INFO] [tombstone/]: The player FenixProToG has successfully been saved
+[02May2025 16:38:44.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FenixProToG was kicked for floating too long!
+[02May2025 16:38:44.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FenixProToG lost connection: Disconnected
+[02May2025 16:38:44.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG left the game
+[02May2025 16:38:44.089] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02May2025 16:38:56.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FenixProToG[/127.222.127.126:51273] logged in with entity id 20822 at (-431.08642532015716, 46.14998983419152, -1338.6013715003478)
+[02May2025 16:38:56.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG joined the game
+[02May2025 16:38:56.474] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (15f23bed-2447-3277-8aad-f12bc60473d9)
+[02May2025 16:38:56.475] [Server thread/INFO] [Jade/]: Syncing config to FenixProToG (15f23bed-2447-3277-8aad-f12bc60473d9)
