@@ -7728,3 +7728,16 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [02May2025 18:05:48.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Applied effect Poison to SaderPlay]
 [02May2025 18:08:32.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02May2025 18:08:32.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 18:11:40.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Applied effect Poison to SaderPlay]
+[02May2025 18:13:32.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 18:13:32.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 18:14:23.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Applied effect Poison to SaderPlay]
+[02May2025 18:18:32.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 18:18:32.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 18:18:50.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FenixProToG lost connection: Disconnected
+[02May2025 18:18:50.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG left the game
+[02May2025 18:21:46.487] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/49583, l='ServerLevel[world]', x=-457.53, y=71.05, z=-1367.51] died, message: 'Fisherman was slain by Zombie'
+[02May2025 18:23:32.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 18:23:32.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 18:28:32.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 18:28:32.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
