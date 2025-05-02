@@ -1714,27 +1714,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
-    "criteria": {
-      "has_polished_diorite": "2025-05-02 15:03:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-05-02 15:04:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-05-02 15:02:15 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-05-02 15:13:30 +0000"
     },
     "done": true
   },
@@ -1750,21 +1732,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-05-02 15:08:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-02 15:02:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab": {
-    "criteria": {
-      "has_polished_diorite": "2025-05-02 15:03:59 +0000"
     },
     "done": true
   },
@@ -1783,18 +1753,6 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-05-02 15:02:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
-    "criteria": {
-      "has_polished_diorite": "2025-05-02 15:03:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
-    "criteria": {
-      "has_polished_diorite": "2025-05-02 15:03:59 +0000"
     },
     "done": true
   },
@@ -1819,6 +1777,48 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-05-02 15:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-05-02 15:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-05-02 15:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-05-02 15:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-05-02 15:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-02 15:04:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 15:08:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-02 15:13:30 +0000"
     },
     "done": true
   },
