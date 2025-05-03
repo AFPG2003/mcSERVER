@@ -75,7 +75,9 @@
       "minecraft:cold_ocean": "2025-05-02 19:14:51 +0000",
       "minecraft:forest": "2025-05-02 00:27:23 +0000",
       "minecraft:deep_cold_ocean": "2025-05-02 19:21:58 +0000",
+      "minecraft:frozen_ocean": "2025-05-03 18:36:04 +0000",
       "minecraft:windswept_forest": "2025-05-02 00:28:00 +0000",
+      "minecraft:deep_frozen_ocean": "2025-05-03 18:39:18 +0000",
       "minecraft:ocean": "2025-05-02 00:51:18 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-02 19:22:35 +0000",
       "minecraft:snowy_beach": "2025-05-03 04:42:06 +0000",
@@ -3481,9 +3483,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-05-03 18:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-05-03 18:38:25 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-05-03 18:39:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-03 17:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-03 18:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-05-03 18:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-03 18:38:26 +0000"
     },
     "done": true
   },
@@ -3493,9 +3531,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-05-03 18:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-05-03 18:38:25 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_haunted_knight": {
     "criteria": {
       "ambusher": "2025-05-03 17:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-05-03 18:38:25 +0000"
     },
     "done": true
   },

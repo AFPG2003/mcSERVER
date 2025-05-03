@@ -3653,6 +3653,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/haunted_house": {
+    "criteria": {
+      "haunted_house": "2025-05-03 18:43:35 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:sneak_grove": {
     "criteria": {
       "sneak_grove": "2025-05-03 17:59:45 +0000"
