@@ -66,6 +66,7 @@
       "minecraft:desert": "2025-05-03 20:53:52 +0000",
       "minecraft:windswept_forest": "2025-05-03 04:50:02 +0000",
       "minecraft:jungle": "2025-05-03 20:40:40 +0000",
+      "minecraft:ocean": "2025-05-03 23:38:57 +0000",
       "minecraft:snowy_beach": "2025-05-03 04:44:52 +0000",
       "minecraft:warm_ocean": "2025-05-03 20:58:04 +0000",
       "minecraft:savanna": "2025-05-03 05:29:34 +0000",
@@ -1927,6 +1928,12 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-05-03 23:11:00 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-05-03 23:36:28 +0000"
     },
     "done": true
   },

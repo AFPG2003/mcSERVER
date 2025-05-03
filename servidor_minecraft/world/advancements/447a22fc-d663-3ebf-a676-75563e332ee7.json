@@ -55,6 +55,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-05-03 23:45:52 +0000",
       "minecraft:taiga": "2025-05-03 03:50:21 +0000",
       "minecraft:deep_ocean": "2025-05-03 23:04:11 +0000",
       "minecraft:frozen_river": "2025-05-03 05:44:17 +0000",
@@ -64,6 +65,7 @@
       "minecraft:lukewarm_ocean": "2025-05-03 04:14:33 +0000",
       "minecraft:river": "2025-05-03 03:51:51 +0000",
       "minecraft:snowy_plains": "2025-05-03 05:43:36 +0000",
+      "minecraft:stony_shore": "2025-05-03 23:42:51 +0000",
       "minecraft:dripstone_caves": "2025-05-03 04:58:30 +0000",
       "minecraft:cold_ocean": "2025-05-03 05:47:55 +0000",
       "minecraft:forest": "2025-05-03 03:54:19 +0000",
@@ -2496,6 +2498,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-05-03 23:39:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-05-03 23:19:28 +0000"
@@ -2547,6 +2555,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-05-03 23:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-05-03 23:36:17 +0000"
     },
     "done": true
   },
@@ -2655,6 +2669,12 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-05-03 23:18:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_aquatic_life": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-03 23:40:06 +0000"
     },
     "done": true
   },
