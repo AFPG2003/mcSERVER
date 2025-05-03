@@ -65,9 +65,12 @@
       "minecraft:dripstone_caves": "2025-05-03 04:58:30 +0000",
       "minecraft:cold_ocean": "2025-05-03 05:47:55 +0000",
       "minecraft:forest": "2025-05-03 03:54:19 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-03 18:53:51 +0000",
+      "minecraft:ocean": "2025-05-03 18:54:30 +0000",
       "minecraft:flower_forest": "2025-05-03 05:31:25 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-03 04:08:12 +0000",
       "minecraft:meadow": "2025-05-03 05:32:14 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-05-03 18:52:33 +0000",
       "minecraft:savanna": "2025-05-03 04:24:15 +0000",
       "minecraft:plains": "2025-05-03 03:52:00 +0000"
     },
@@ -1914,6 +1917,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-03 18:54:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 18:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-03 18:54:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_horse_armor": "2025-05-03 18:07:23 +0000"
@@ -1935,6 +1956,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-03 18:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-05-03 18:59:45 +0000"
     },
     "done": true
   },
@@ -1962,6 +1989,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-03 18:49:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-03 18:13:29 +0000"
@@ -1971,6 +2004,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-03 18:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-03 18:54:46 +0000"
     },
     "done": true
   },
@@ -1989,6 +2028,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-05-03 18:14:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 18:59:45 +0000"
     },
     "done": true
   },
