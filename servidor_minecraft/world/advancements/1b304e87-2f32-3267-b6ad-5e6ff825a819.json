@@ -63,6 +63,7 @@
       "minecraft:cherry_grove": "2025-05-02 01:33:24 +0000",
       "minecraft:sunflower_plains": "2025-05-02 01:33:44 +0000",
       "minecraft:windswept_hills": "2025-05-02 00:29:15 +0000",
+      "minecraft:savanna_plateau": "2025-05-03 17:25:04 +0000",
       "minecraft:beach": "2025-05-02 00:49:51 +0000",
       "minecraft:river": "2025-05-02 00:30:47 +0000",
       "minecraft:stony_shore": "2025-05-03 15:18:34 +0000",
@@ -83,6 +84,7 @@
       "minecraft:deep_dark": "2025-05-02 15:45:00 +0000",
       "minecraft:meadow": "2025-05-02 01:39:20 +0000",
       "minecraft:windswept_gravelly_hills": "2025-05-02 00:29:58 +0000",
+      "minecraft:savanna": "2025-05-03 17:20:34 +0000",
       "minecraft:plains": "2025-05-02 00:30:44 +0000"
     },
     "done": false
@@ -3582,6 +3584,18 @@
   "tombstone:adventure/strange_mount": {
     "criteria": {
       "has_skeleton_receptacle": "2025-05-03 17:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-05-03 17:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-05-03 17:18:56 +0000"
     },
     "done": true
   },
