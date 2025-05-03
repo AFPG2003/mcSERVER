@@ -3707,6 +3707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-05-03 21:14:21 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/find_ice_maze": {
     "criteria": {
       "deep_frozen_ocean": "2025-05-03 20:50:17 +0000"
@@ -3734,6 +3740,12 @@
   "aquamirae:recipes/esca": {
     "criteria": {
       "has_item": "2025-05-03 20:51:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-05-03 21:01:09 +0000"
     },
     "done": true
   },
@@ -3782,6 +3794,12 @@
   "aquamirae:adventure/obtain_dagger_of_greed": {
     "criteria": {
       "dagger_of_greed": "2025-05-03 20:53:58 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/three_bolt_helmet": {
+    "criteria": {
+      "has_item": "2025-05-03 21:02:31 +0000"
     },
     "done": true
   },

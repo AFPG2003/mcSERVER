@@ -1630,21 +1630,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-03 20:43:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-05-03 20:41:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
-      "has_bone_meal": "2025-05-03 20:50:08 +0000"
+      "has_flint": "2025-05-03 20:41:02 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_abandoned_crypt": {
+    "criteria": {
+      "abandoned_crypt": "2025-05-03 20:42:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-03 20:43:01 +0000"
     },
     "done": true
   },
@@ -1672,33 +1678,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-05-03 20:50:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-03 20:43:01 +0000"
     },
     "done": true
   },
-  "legendary_monsters:defeat_posessed_paladin": {
-    "criteria": {
-      "ambusher": "2025-05-03 20:48:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-03 20:43:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2025-05-03 20:41:02 +0000"
     },
     "done": true
   },
@@ -1714,9 +1702,9 @@
     },
     "done": true
   },
-  "legendary_monsters:locate_abandoned_crypt": {
+  "legendary_monsters:defeat_haunted_knight": {
     "criteria": {
-      "abandoned_crypt": "2025-05-03 20:42:51 +0000"
+      "ambusher": "2025-05-03 20:44:07 +0000"
     },
     "done": true
   },
@@ -1726,15 +1714,27 @@
     },
     "done": true
   },
-  "legendary_monsters:defeat_haunted_knight": {
+  "legendary_monsters:defeat_posessed_paladin": {
     "criteria": {
-      "ambusher": "2025-05-03 20:44:07 +0000"
+      "ambusher": "2025-05-03 20:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-03 20:50:08 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-05-03 20:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-03 20:50:25 +0000"
     },
     "done": true
   },

@@ -44,6 +44,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-03 03:56:23 +0000",
+      "minecraft:eroded_badlands": "2025-05-03 21:08:00 +0000",
       "minecraft:frozen_river": "2025-05-03 04:48:29 +0000",
       "minecraft:birch_forest": "2025-05-03 20:17:12 +0000",
       "minecraft:wooded_badlands": "2025-05-03 20:41:51 +0000",
@@ -230,6 +231,7 @@
       "minecraft:pillager": "2025-05-03 04:50:52 +0000",
       "minecraft:skeleton": "2025-05-03 04:11:40 +0000",
       "minecraft:vindicator": "2025-05-03 04:58:22 +0000",
+      "minecraft:spider": "2025-05-03 21:12:06 +0000",
       "minecraft:creeper": "2025-05-03 04:29:21 +0000",
       "minecraft:evoker": "2025-05-03 04:57:08 +0000",
       "minecraft:witch": "2025-05-03 20:23:12 +0000",
@@ -1385,9 +1387,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-03 21:02:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-03 20:41:05 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/building_blocks/raw_lead_block": {
+    "criteria": {
+      "has_raw_lead": "2025-05-03 21:07:40 +0000"
     },
     "done": true
   },
@@ -1400,6 +1414,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-03 20:41:05 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/misc/lead_ingot_from_smelting_raw_lead": {
+    "criteria": {
+      "has_raw_lead": "2025-05-03 21:07:40 +0000"
     },
     "done": true
   },
@@ -1418,6 +1438,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-05-03 20:56:06 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2025-05-03 21:13:26 +0000"
     },
     "done": true
   },
@@ -1445,6 +1471,12 @@
     },
     "done": true
   },
+  "palladium:recipes/misc/lead_ingot_from_blasting_raw_lead": {
+    "criteria": {
+      "has_raw_lead": "2025-05-03 21:07:40 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:locate_abandoned_crypt": {
     "criteria": {
       "abandoned_crypt": "2025-05-03 20:43:03 +0000"
@@ -1454,6 +1486,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-03 20:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-03 21:02:38 +0000"
     },
     "done": true
   },
@@ -1484,6 +1522,18 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-03 20:41:05 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-05-03 21:13:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-03 21:13:26 +0000"
     },
     "done": true
   },
