@@ -84,6 +84,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-05-02 19:22:35 +0000",
       "minecraft:snowy_beach": "2025-05-03 04:42:06 +0000",
       "minecraft:flower_forest": "2025-05-02 01:36:30 +0000",
+      "minecraft:frozen_peaks": "2025-05-03 23:51:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 00:57:54 +0000",
       "minecraft:deep_dark": "2025-05-02 15:45:55 +0000",
       "minecraft:meadow": "2025-05-02 01:38:03 +0000",
@@ -4147,21 +4148,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+  "minecraft:husbandry/obtain_netherite_hoe": {
     "criteria": {
-      "has_gold_nugget": "2025-05-03 23:19:03 +0000"
+      "netherite_hoe": "2025-05-03 23:02:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
     "criteria": {
-      "has_snowball": "2025-05-03 23:17:05 +0000"
+      "has_deepslate_iron_ore": "2025-05-03 23:06:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
     "criteria": {
-      "has_gold_nugget": "2025-05-03 23:19:03 +0000"
+      "has_deepslate_iron_ore": "2025-05-03 23:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-05-03 23:06:20 +0000"
     },
     "done": true
   },
@@ -4183,21 +4190,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_shell": "2025-05-03 23:19:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-05-03 23:07:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
-    "criteria": {
-      "has_deepslate_iron_ore": "2025-05-03 23:06:07 +0000"
     },
     "done": true
   },
@@ -4225,27 +4220,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_deepslate_iron_ore": "2025-05-03 23:06:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/obtain_netherite_hoe": {
-    "criteria": {
-      "netherite_hoe": "2025-05-03 23:02:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2025-05-03 23:06:20 +0000"
+      "has_snowball": "2025-05-03 23:17:05 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-05-03 23:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-03 23:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-03 23:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-05-03 23:19:03 +0000"
     },
     "done": true
   },
