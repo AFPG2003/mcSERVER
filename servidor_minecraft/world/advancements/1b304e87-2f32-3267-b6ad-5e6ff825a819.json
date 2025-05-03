@@ -145,6 +145,7 @@
       "cooked_beef": "2025-05-02 21:13:47 +0000",
       "baked_potato": "2025-05-03 21:36:22 +0000",
       "apple": "2025-05-03 20:47:05 +0000",
+      "pumpkin_pie": "2025-05-03 23:13:48 +0000",
       "bread": "2025-05-02 00:45:45 +0000",
       "golden_apple": "2025-05-02 15:05:45 +0000",
       "suspicious_stew": "2025-05-02 16:10:56 +0000",
@@ -839,7 +840,8 @@
       "minecraft:enderman": "2025-05-02 00:58:33 +0000",
       "minecraft:stray": "2025-05-03 22:17:39 +0000",
       "minecraft:zombie": "2025-05-02 00:51:00 +0000",
-      "minecraft:drowned": "2025-05-03 17:12:02 +0000"
+      "minecraft:drowned": "2025-05-03 17:12:02 +0000",
+      "minecraft:zombie_villager": "2025-05-03 23:12:22 +0000"
     },
     "done": false
   },
@@ -4245,6 +4247,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/spinefish": {
+    "criteria": {
+      "has_item": "2025-05-03 23:20:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-03 23:04:54 +0000"
@@ -4266,6 +4274,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-03 23:04:54 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-05-03 23:12:55 +0000"
     },
     "done": true
   },
@@ -4299,9 +4313,21 @@
     },
     "done": true
   },
+  "aquamirae:recipes/ship_graveyard_echo": {
+    "criteria": {
+      "has_item": "2025-05-03 23:16:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2025-05-03 23:05:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 23:14:49 +0000"
     },
     "done": true
   },
