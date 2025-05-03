@@ -2163,6 +2163,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-03 19:30:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-03 19:30:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-03 19:30:00 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/combat/explosive_barrel": {
     "criteria": {
       "has_gunpowder": "2025-05-03 19:24:24 +0000"
