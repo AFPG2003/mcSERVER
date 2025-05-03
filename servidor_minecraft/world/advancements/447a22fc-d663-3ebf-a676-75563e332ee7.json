@@ -56,6 +56,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-03 03:50:21 +0000",
+      "minecraft:deep_ocean": "2025-05-03 23:04:11 +0000",
       "minecraft:frozen_river": "2025-05-03 05:44:17 +0000",
       "minecraft:beach": "2025-05-03 04:07:10 +0000",
       "minecraft:sparse_jungle": "2025-05-03 04:13:37 +0000",
@@ -491,6 +492,7 @@
       "minecraft:slime": "2025-05-03 04:52:21 +0000",
       "minecraft:husk": "2025-05-03 04:59:40 +0000",
       "minecraft:zombie": "2025-05-03 04:11:57 +0000",
+      "minecraft:drowned": "2025-05-03 23:04:46 +0000",
       "minecraft:zombie_villager": "2025-05-03 04:27:05 +0000"
     },
     "done": false
@@ -2436,6 +2438,30 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-03 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-05-03 23:07:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-05-03 23:07:42 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-05-03 23:05:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-03 23:05:11 +0000"
     },
     "done": true
   },

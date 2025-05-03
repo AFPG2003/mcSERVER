@@ -98,6 +98,7 @@
       "minecraft:vindicator": "2025-05-03 05:19:48 +0000",
       "minecraft:spider": "2025-05-03 06:26:44 +0000",
       "minecraft:witch": "2025-05-03 05:30:23 +0000",
+      "minecraft:wither_skeleton": "2025-05-03 23:03:48 +0000",
       "minecraft:husk": "2025-05-03 22:25:25 +0000",
       "minecraft:cave_spider": "2025-05-03 18:55:49 +0000",
       "minecraft:zombie": "2025-05-03 05:43:46 +0000",
@@ -2938,9 +2939,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-05-03 23:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-03 23:09:13 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:suns_blessing": {
     "criteria": {
       "get_suns_blessing": "2025-05-03 23:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-05-03 23:08:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-03 23:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-03 23:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-03 23:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-05-03 23:09:41 +0000"
     },
     "done": true
   },
