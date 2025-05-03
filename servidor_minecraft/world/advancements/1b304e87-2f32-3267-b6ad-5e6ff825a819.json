@@ -69,6 +69,7 @@
       "minecraft:stony_shore": "2025-05-03 15:18:34 +0000",
       "minecraft:snowy_plains": "2025-05-03 16:28:58 +0000",
       "minecraft:dripstone_caves": "2025-05-02 15:39:46 +0000",
+      "minecraft:snowy_taiga": "2025-05-03 22:15:16 +0000",
       "minecraft:swamp": "2025-05-02 00:37:38 +0000",
       "minecraft:grove": "2025-05-02 19:02:13 +0000",
       "minecraft:jagged_peaks": "2025-05-03 19:00:34 +0000",
@@ -836,6 +837,7 @@
       "minecraft:husk": "2025-05-03 17:02:29 +0000",
       "minecraft:cave_spider": "2025-05-02 18:05:07 +0000",
       "minecraft:enderman": "2025-05-02 00:58:33 +0000",
+      "minecraft:stray": "2025-05-03 22:17:39 +0000",
       "minecraft:zombie": "2025-05-02 00:51:00 +0000",
       "minecraft:drowned": "2025-05-03 17:12:02 +0000"
     },
@@ -4153,15 +4155,57 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 22:31:19 +0000"
+    },
+    "done": true
+  },
   "aquamirae:recipes/sharp_bones": {
     "criteria": {
       "has_item": "2025-05-03 22:10:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-03 22:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-03 22:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-03 22:27:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-05-03 22:06:34 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-05-03 22:19:22 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-05-03 22:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-03 22:27:47 +0000"
     },
     "done": true
   },

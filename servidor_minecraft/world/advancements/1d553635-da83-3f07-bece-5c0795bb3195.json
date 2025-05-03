@@ -98,6 +98,7 @@
       "minecraft:vindicator": "2025-05-03 05:19:48 +0000",
       "minecraft:spider": "2025-05-03 06:26:44 +0000",
       "minecraft:witch": "2025-05-03 05:30:23 +0000",
+      "minecraft:husk": "2025-05-03 22:25:25 +0000",
       "minecraft:cave_spider": "2025-05-03 18:55:49 +0000",
       "minecraft:zombie": "2025-05-03 05:43:46 +0000",
       "minecraft:zombie_villager": "2025-05-03 21:47:24 +0000"
@@ -255,6 +256,7 @@
       "cooked_beef": "2025-05-03 04:37:37 +0000",
       "pumpkin_pie": "2025-05-03 16:58:16 +0000",
       "bread": "2025-05-03 04:34:09 +0000",
+      "golden_apple": "2025-05-03 22:30:32 +0000",
       "cookie": "2025-05-03 21:48:25 +0000",
       "enchanted_golden_apple": "2025-05-03 06:26:01 +0000"
     },
@@ -2582,9 +2584,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-03 22:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
     "criteria": {
       "has_emerald_ore": "2025-05-03 21:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-03 22:21:21 +0000"
     },
     "done": true
   },
@@ -2636,6 +2650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-03 22:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_sand": "2025-05-03 21:31:00 +0000"
@@ -2675,6 +2695,12 @@
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-05-03 20:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-03 22:21:21 +0000"
     },
     "done": true
   },
@@ -2750,6 +2776,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-05-03 22:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
     "criteria": {
       "has_emerald_ore": "2025-05-03 21:39:51 +0000"
@@ -2774,9 +2806,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-03 22:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-03 22:11:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-05-03 22:21:21 +0000"
     },
     "done": true
   },
@@ -2792,6 +2836,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-03 22:29:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-03 22:25:51 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_haunted_guard": {
     "criteria": {
       "ambusher": "2025-05-03 20:45:08 +0000"
@@ -2804,6 +2860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-03 22:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-05-03 22:11:21 +0000"
@@ -2813,6 +2875,12 @@
   "legendary_monsters:defeat_haunted_knight": {
     "criteria": {
       "ambusher": "2025-05-03 20:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-03 22:29:56 +0000"
     },
     "done": true
   },

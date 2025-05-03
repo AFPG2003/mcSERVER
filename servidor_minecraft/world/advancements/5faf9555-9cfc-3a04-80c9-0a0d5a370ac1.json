@@ -434,6 +434,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-05-03 17:54:53 +0000",
+      "apple": "2025-05-03 22:16:49 +0000",
       "bread": "2025-05-03 17:39:55 +0000",
       "golden_apple": "2025-05-03 18:36:18 +0000",
       "golden_carrot": "2025-05-03 20:39:28 +0000",
@@ -1753,6 +1754,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-05-03 22:07:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 22:28:49 +0000"
     },
     "done": true
   },

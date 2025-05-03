@@ -496,6 +496,7 @@
       "minecraft:cave_spider": "2025-05-02 01:38:33 +0000",
       "minecraft:silverfish": "2025-05-02 01:38:56 +0000",
       "minecraft:enderman": "2025-05-03 06:24:23 +0000",
+      "minecraft:stray": "2025-05-03 22:15:15 +0000",
       "minecraft:vex": "2025-05-03 04:57:27 +0000",
       "minecraft:zombie": "2025-05-02 00:22:05 +0000",
       "minecraft:drowned": "2025-05-02 19:13:04 +0000"
@@ -4058,6 +4059,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-05-03 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-05-03 22:19:26 +0000"
     },
     "done": true
   },
