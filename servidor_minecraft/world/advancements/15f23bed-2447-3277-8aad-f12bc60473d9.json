@@ -3864,6 +3864,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 22:35:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-05-03 21:34:52 +0000"
@@ -4071,6 +4077,12 @@
   "aquamirae:adventure/obtain_dagger_of_greed": {
     "criteria": {
       "dagger_of_greed": "2025-05-03 21:05:18 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-05-03 22:35:31 +0000"
     },
     "done": true
   },

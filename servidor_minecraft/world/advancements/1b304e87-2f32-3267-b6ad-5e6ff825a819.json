@@ -4131,21 +4131,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-05-03 22:06:34 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/use_disenchantment": {
     "criteria": {
       "coded_trigger": "2025-05-03 21:47:37 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/abyssal_amethyst": {
-    "criteria": {
-      "has_item": "2025-05-03 22:10:09 +0000"
     },
     "done": true
   },
@@ -4155,15 +4143,39 @@
     },
     "done": true
   },
-  "tombstone:adventure/strong_undead": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "coded_trigger": "2025-05-03 22:31:19 +0000"
+      "has_cod": "2025-05-03 22:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-03 22:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-03 22:06:34 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/abyssal_amethyst": {
+    "criteria": {
+      "has_item": "2025-05-03 22:10:09 +0000"
     },
     "done": true
   },
   "aquamirae:recipes/sharp_bones": {
     "criteria": {
       "has_item": "2025-05-03 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-05-03 22:19:22 +0000"
     },
     "done": true
   },
@@ -4185,33 +4197,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-05-03 22:06:34 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_frosted_prison": {
-    "criteria": {
-      "prison": "2025-05-03 22:19:22 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_maledictus": {
-    "criteria": {
-      "ignis": "2025-05-03 22:31:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-05-03 22:27:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "tombstone:adventure/strong_undead": {
     "criteria": {
-      "has_cod": "2025-05-03 22:06:34 +0000"
+      "coded_trigger": "2025-05-03 22:31:19 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-05-03 22:31:19 +0000"
     },
     "done": true
   },
