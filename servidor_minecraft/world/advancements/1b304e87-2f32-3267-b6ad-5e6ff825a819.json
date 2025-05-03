@@ -3587,9 +3587,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+  "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
-      "has_pink_petals": "2025-05-03 17:46:38 +0000"
+      "has_packed_mud": "2025-05-03 17:18:56 +0000"
     },
     "done": true
   },
@@ -3599,9 +3599,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-05-03 17:46:38 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:locate_abandoned_crypt": {
     "criteria": {
       "abandoned_crypt": "2025-05-03 17:47:02 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_knight": {
+    "criteria": {
+      "ambusher": "2025-05-03 17:47:13 +0000"
     },
     "done": true
   },
@@ -3611,15 +3623,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_bricks": {
+  "legendary_monsters:defeat_posessed_paladin": {
     "criteria": {
-      "has_packed_mud": "2025-05-03 17:18:56 +0000"
+      "ambusher": "2025-05-03 17:51:13 +0000"
     },
     "done": true
   },
-  "legendary_monsters:defeat_haunted_knight": {
+  "tombstone:adventure/choose_grave_type": {
     "criteria": {
-      "ambusher": "2025-05-03 17:47:13 +0000"
+      "coded_trigger": "2025-05-03 18:14:40 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "sneak_grove": "2025-05-03 17:59:45 +0000"
     },
     "done": true
   },

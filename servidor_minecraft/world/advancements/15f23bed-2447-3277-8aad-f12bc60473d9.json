@@ -3427,6 +3427,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_cloud_golem": {
+    "criteria": {
+      "cloud_golem": "2025-05-03 16:55:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-05-03 17:10:47 +0000"
@@ -3439,21 +3445,27 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_receptacle_of_familiar": "2025-05-03 17:44:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-05-03 17:10:47 +0000"
     },
     "done": true
   },
-  "legendary_monsters:defeat_cloud_golem": {
+  "mowziesmobs:kill_umvuthi": {
     "criteria": {
-      "cloud_golem": "2025-05-03 16:55:17 +0000"
+      "barako": "2025-05-03 17:22:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-05-03 17:44:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strange_mount": {
+    "criteria": {
+      "has_skeleton_receptacle": "2025-05-03 17:44:59 +0000"
     },
     "done": true
   },
@@ -3469,15 +3481,21 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_umvuthi": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "barako": "2025-05-03 17:22:51 +0000"
+      "has_smithing_trim_template": "2025-05-03 17:55:04 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/strange_mount": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
-      "has_skeleton_receptacle": "2025-05-03 17:44:59 +0000"
+      "has_coast_armor_trim_smithing_template": "2025-05-03 17:55:04 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_knight": {
+    "criteria": {
+      "ambusher": "2025-05-03 17:50:45 +0000"
     },
     "done": true
   },
