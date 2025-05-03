@@ -78,6 +78,7 @@
       "minecraft:deep_cold_ocean": "2025-05-02 19:21:58 +0000",
       "minecraft:frozen_ocean": "2025-05-03 16:35:41 +0000",
       "minecraft:windswept_forest": "2025-05-02 00:28:11 +0000",
+      "minecraft:deep_frozen_ocean": "2025-05-03 20:50:17 +0000",
       "minecraft:ocean": "2025-05-02 00:51:18 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-02 19:22:34 +0000",
       "minecraft:snowy_beach": "2025-05-03 16:35:39 +0000",
@@ -140,6 +141,7 @@
       "cooked_porkchop": "2025-05-02 00:58:42 +0000",
       "sweet_berries": "2025-05-02 00:27:22 +0000",
       "cooked_beef": "2025-05-02 21:13:47 +0000",
+      "apple": "2025-05-03 20:47:05 +0000",
       "bread": "2025-05-02 00:45:45 +0000",
       "golden_apple": "2025-05-02 15:05:45 +0000",
       "suspicious_stew": "2025-05-02 16:10:56 +0000",
@@ -3696,6 +3698,30 @@
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_orange_tulip": "2025-05-03 19:35:23 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-05-03 20:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-03 20:50:38 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/wisteria_niveis": {
+    "criteria": {
+      "has_item": "2025-05-03 20:50:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-03 20:50:38 +0000"
     },
     "done": true
   },
