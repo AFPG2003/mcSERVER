@@ -1589,6 +1589,12 @@
     },
     "done": true
   },
+  "dungeons_and_combat:forgotten_sands": {
+    "criteria": {
+      "forgotten_sands_0": "2025-05-03 22:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-05-03 21:13:28 +0000"
