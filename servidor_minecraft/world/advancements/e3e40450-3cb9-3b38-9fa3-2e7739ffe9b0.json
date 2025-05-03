@@ -242,6 +242,7 @@
       "minecraft:husk": "2025-05-03 21:23:27 +0000",
       "minecraft:vex": "2025-05-03 04:58:28 +0000",
       "minecraft:zombie": "2025-05-03 04:26:49 +0000",
+      "minecraft:drowned": "2025-05-03 23:33:47 +0000",
       "minecraft:zombie_villager": "2025-05-03 21:47:35 +0000"
     },
     "done": false
@@ -308,6 +309,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-03 23:33:04 +0000",
       "cooked_beef": "2025-05-03 22:30:14 +0000",
       "bread": "2025-05-03 04:17:28 +0000",
       "carrot": "2025-05-03 05:25:44 +0000"
@@ -1943,6 +1945,12 @@
   "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
     "criteria": {
       "has_deepslate_redstone_ore": "2025-05-03 23:08:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-03 23:28:49 +0000"
     },
     "done": true
   },
