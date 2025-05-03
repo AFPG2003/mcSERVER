@@ -2920,3 +2920,9 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [03May2025 15:55:50.877] [Server thread/INFO] [Jade/]: Syncing config to FenixProToG (15f23bed-2447-3277-8aad-f12bc60473d9)
 [03May2025 15:56:18.856] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/752, l='ServerLevel[world]', x=-547.30, y=68.50, z=-1411.99] died, message: 'Librarian hit the ground too hard'
 [03May2025 16:00:35.508] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/840, l='ServerLevel[world]', x=-526.22, y=64.56, z=-1412.14] died, message: 'Nitwit was struck down by Legioner'
+[03May2025 16:06:19.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has made the advancement [Dark Purposes]
+[03May2025 16:07:17.275] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ESTID[/127.102.107.165:43831] logged in with entity id 2648 at (-776.484414357238, 62.0, -528.301486557552)
+[03May2025 16:07:17.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID joined the game
+[03May2025 16:07:17.654] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (1d553635-da83-3f07-bece-5c0795bb3195)
+[03May2025 16:07:17.656] [Server thread/INFO] [Jade/]: Syncing config to ESTID (1d553635-da83-3f07-bece-5c0795bb3195)
+[03May2025 16:10:07.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported ESTID to FenixProToG]

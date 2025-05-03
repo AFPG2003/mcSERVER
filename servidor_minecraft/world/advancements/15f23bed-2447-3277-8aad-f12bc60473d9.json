@@ -3412,5 +3412,17 @@
     },
     "done": true
   },
+  "dungeons_and_combat:dark_purposes": {
+    "criteria": {
+      "dark_purposes_0": "2025-05-03 16:06:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-05-03 16:03:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
