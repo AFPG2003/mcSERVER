@@ -45,8 +45,11 @@
     "criteria": {
       "minecraft:taiga": "2025-05-03 03:56:23 +0000",
       "minecraft:frozen_river": "2025-05-03 04:48:29 +0000",
+      "minecraft:birch_forest": "2025-05-03 20:17:12 +0000",
       "minecraft:beach": "2025-05-03 04:22:01 +0000",
+      "minecraft:sparse_jungle": "2025-05-03 20:19:28 +0000",
       "minecraft:river": "2025-05-03 04:24:20 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-03 20:21:37 +0000",
       "minecraft:snowy_plains": "2025-05-03 04:41:43 +0000",
       "minecraft:snowy_taiga": "2025-05-03 04:48:23 +0000",
       "minecraft:swamp": "2025-05-03 04:21:31 +0000",
@@ -222,6 +225,7 @@
       "minecraft:vindicator": "2025-05-03 04:58:22 +0000",
       "minecraft:creeper": "2025-05-03 04:29:21 +0000",
       "minecraft:evoker": "2025-05-03 04:57:08 +0000",
+      "minecraft:witch": "2025-05-03 20:23:12 +0000",
       "minecraft:vex": "2025-05-03 04:58:28 +0000",
       "minecraft:zombie": "2025-05-03 04:26:49 +0000"
     },
@@ -1239,6 +1243,102 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-05-03 18:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-05-03 20:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-05-03 20:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-05-03 20:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-03 20:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-03 20:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-05-03 20:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-03 20:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-05-03 20:25:49 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-03 20:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-03 20:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-05-03 20:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-03 20:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-03 20:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-05-03 20:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-03 20:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-05-03 20:25:49 +0000"
     },
     "done": true
   },
