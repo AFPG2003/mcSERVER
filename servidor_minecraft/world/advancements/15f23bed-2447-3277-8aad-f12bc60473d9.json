@@ -3388,6 +3388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-03 05:59:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2025-05-03 06:00:20 +0000"
@@ -3403,12 +3409,6 @@
   "takesapillage:pillager_camp": {
     "criteria": {
       "in_pillager_camp": "2025-05-03 06:26:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-05-03 05:59:31 +0000"
     },
     "done": true
   },
