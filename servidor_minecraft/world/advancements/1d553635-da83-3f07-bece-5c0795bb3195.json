@@ -3081,6 +3081,12 @@
     },
     "done": true
   },
+  "dungeons_and_combat:the_cursed_soul": {
+    "criteria": {
+      "the_cursed_soul_0": "2025-05-04 00:24:55 +0000"
+    },
+    "done": true
+  },
   "alienevo:galvan_capsule": {
     "criteria": {
       "find_galvan_capsule": "2025-05-03 23:13:44 +0000"

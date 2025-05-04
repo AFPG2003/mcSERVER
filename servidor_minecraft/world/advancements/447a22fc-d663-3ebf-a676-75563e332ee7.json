@@ -2529,6 +2529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-04 00:25:38 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/giant_mushroom": {
     "criteria": {
       "giant_mushroom": "2025-05-04 00:06:25 +0000"
@@ -2571,15 +2577,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-04 00:25:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-05-03 23:07:42 +0000"
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-05-04 00:23:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-05-03 23:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-04 00:14:44 +0000"
     },
     "done": true
   },
@@ -2679,6 +2703,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-04 00:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-04 00:25:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-03 23:31:28 +0000"
@@ -2688,6 +2724,12 @@
   "minecraft:recipes/redstone/mangrove_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-03 23:31:28 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-05-04 00:25:38 +0000"
     },
     "done": true
   },
@@ -2733,6 +2775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-04 00:25:38 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/naturalist/glow_goop": {
     "criteria": {
       "has_glow_berries": "2025-05-03 23:05:10 +0000"
@@ -2769,9 +2817,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-04 00:25:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_cupidity": {
     "criteria": {
       "coded_trigger": "2025-05-03 23:55:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-05-04 00:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-04 00:25:38 +0000"
     },
     "done": true
   },
