@@ -65,6 +65,7 @@
       "minecraft:windswept_hills": "2025-05-02 00:28:23 +0000",
       "minecraft:badlands": "2025-05-03 19:45:15 +0000",
       "minecraft:beach": "2025-05-02 00:50:42 +0000",
+      "minecraft:dark_forest": "2025-05-04 00:37:20 +0000",
       "minecraft:river": "2025-05-02 00:30:38 +0000",
       "minecraft:snowy_plains": "2025-05-03 04:41:41 +0000",
       "minecraft:stony_shore": "2025-05-03 16:58:43 +0000",
@@ -88,6 +89,7 @@
       "minecraft:old_growth_birch_forest": "2025-05-02 00:57:54 +0000",
       "minecraft:deep_dark": "2025-05-02 15:45:55 +0000",
       "minecraft:meadow": "2025-05-02 01:38:03 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-05-04 02:31:12 +0000",
       "minecraft:savanna": "2025-05-02 17:05:32 +0000",
       "minecraft:plains": "2025-05-02 00:30:39 +0000"
     },
@@ -538,11 +540,14 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-05-02 00:30:54 +0000",
+      "cooked_mutton": "2025-05-04 02:45:40 +0000",
+      "cooked_beef": "2025-05-04 01:35:44 +0000",
       "bread": "2025-05-02 00:37:07 +0000",
       "golden_apple": "2025-05-02 15:05:24 +0000",
       "rotten_flesh": "2025-05-02 00:26:01 +0000",
       "suspicious_stew": "2025-05-02 20:23:45 +0000",
       "golden_carrot": "2025-05-03 04:09:11 +0000",
+      "cooked_chicken": "2025-05-04 02:40:58 +0000",
       "mushroom_stew": "2025-05-02 01:28:09 +0000"
     },
     "done": false
@@ -4253,6 +4258,66 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-05-04 00:25:24 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_dune_sentinel": {
+    "criteria": {
+      "ambusher": "2025-05-04 02:39:48 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-05-04 00:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-04 00:35:45 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ruined_pyramid": {
+    "criteria": {
+      "ruined_pyramid": "2025-05-04 02:39:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 02:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2025-05-04 02:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-04 02:35:38 +0000"
+    },
+    "done": true
+  },
+  "alienevo:galvan_capsule": {
+    "criteria": {
+      "find_galvan_capsule": "2025-05-04 01:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-04 02:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-05-04 01:21:21 +0000"
     },
     "done": true
   },

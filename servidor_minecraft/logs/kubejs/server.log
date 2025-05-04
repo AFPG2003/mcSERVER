@@ -1,32 +1,38 @@
-[22:55:45] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[22:55:45] [INIT] Loaded plugins:
-[22:55:45] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[22:55:45] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
-[22:55:45] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[22:55:45] [INFO] Loaded script server_scripts:example.js in 0.002 s
-[22:55:45] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/xp.js in 0.001 s
-[22:55:45] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench_items.js in 0.004 s
-[22:55:45] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.031 s
-[22:55:45] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.007 s
-[22:55:45] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/pod_loot.js in 0.003 s
-[22:55:45] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/playlist_command.js in 0.008 s
-[22:55:45] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/palladium_properties.js in 0.0 s
-[22:55:45] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/nbt_omnitrix.js in 0.0 s
-[22:55:45] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/level_command.js in 0.002 s
-[22:55:45] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/hit.js in 0.002 s
-[22:55:45] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/flammable_block.js in 0.0 s
-[22:55:45] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/failsafe.js in 0.001 s
-[22:55:45] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/code_hints.js in 0.001 s
-[22:55:45] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/break_block.js in 0.0 s
-[22:55:45] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/alien_death.js in 0.0 s
-[22:55:45] [INFO] Loaded 16/16 KubeJS server scripts in 0.115 s with 0 errors and 0 warnings
-[22:55:45] [INFO] Scripts loaded
-[22:55:49] [INFO] [minecraft:block] Found 352 tags, added 9 objects, removed 0 objects
-[22:55:49] [INFO] [minecraft:item] Found 417 tags, added 3 objects, removed 0 objects
-[22:56:00] [INFO] Server resource reload complete!
-[22:57:42] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -2682,94,-5578,minecraft:overworld as filled
-[23:22:30] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -4054,60,-1014,minecraft:overworld as filled
-[23:23:27] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -4250,66,-982,minecraft:overworld as filled
-[23:40:16] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -3254,61,-5814,minecraft:overworld as filled
-[00:11:34] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -8426,77,-1446,minecraft:overworld as filled
-[00:12:44] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -8710,67,-1402,minecraft:overworld as filled
+[00:28:37] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[00:28:37] [INIT] Loaded plugins:
+[00:28:37] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[00:28:37] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
+[00:28:37] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[00:28:37] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[00:28:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/xp.js in 0.002 s
+[00:28:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench_items.js in 0.002 s
+[00:28:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.025 s
+[00:28:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.003 s
+[00:28:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/pod_loot.js in 0.002 s
+[00:28:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/playlist_command.js in 0.007 s
+[00:28:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/palladium_properties.js in 0.0 s
+[00:28:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/nbt_omnitrix.js in 0.0 s
+[00:28:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/level_command.js in 0.006 s
+[00:28:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/hit.js in 0.002 s
+[00:28:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/flammable_block.js in 0.0 s
+[00:28:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/failsafe.js in 0.003 s
+[00:28:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/code_hints.js in 0.002 s
+[00:28:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/break_block.js in 0.001 s
+[00:28:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/alien_death.js in 0.0 s
+[00:28:37] [INFO] Loaded 16/16 KubeJS server scripts in 0.084 s with 0 errors and 0 warnings
+[00:28:37] [INFO] Scripts loaded
+[00:28:40] [INFO] [minecraft:item] Found 417 tags, added 3 objects, removed 0 objects
+[00:28:40] [INFO] [minecraft:block] Found 352 tags, added 9 objects, removed 0 objects
+[00:28:52] [INFO] Server resource reload complete!
+[00:54:49] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -4826,74,-5382,minecraft:overworld as filled
+[00:57:59] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -5014,59,-5126,minecraft:overworld as filled
+[01:02:35] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -4570,60,-5270,minecraft:overworld as filled
+[01:16:04] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -2250,63,762,minecraft:overworld as filled
+[01:25:09] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -2986,68,262,minecraft:overworld as filled
+[01:39:17] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -2998,82,-442,minecraft:overworld as filled
+[02:17:50] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -118,61,250,minecraft:overworld as filled
+[02:18:28] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -4230,67,-4982,minecraft:overworld as filled
+[02:22:50] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -746,59,378,minecraft:overworld as filled
+[02:26:58] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -1514,65,106,minecraft:overworld as filled
+[02:31:48] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -4294,68,-3946,minecraft:overworld as filled
+[02:33:21] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -4262,64,-3834,minecraft:overworld as filled
